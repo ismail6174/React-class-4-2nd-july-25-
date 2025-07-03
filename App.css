@@ -1,0 +1,32 @@
+.social{
+ text-decoration: none;
+ font-size: 40px;
+ display: flex;
+ justify-content: center;
+ background-color: grey;
+ gap: 20px;
+ 
+ 
+}
+.social a{
+    color: black;
+}
+h1,h2{
+    text-align: center;
+}
+h1{
+    background-color: black;
+}
+
+.head{
+    color: rgb(51, 97, 236);
+}
+.card{
+    margin-top: 50px;
+}
+.carddiv{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+    flex-wrap: wrap;
+}
